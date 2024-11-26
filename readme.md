@@ -1,0 +1,1 @@
+Replace the Xs with your activation key within the activator.bat file save the file run it and your server will be activated
